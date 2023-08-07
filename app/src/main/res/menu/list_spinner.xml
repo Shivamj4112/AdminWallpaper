@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/neon"
+        android:title="Neon"/>
+
+    <item android:id="@+id/anime"
+        android:title="Anime"/>
+
+    <item android:id="@+id/vehicle"
+        android:title="Vehicle"/>
+
+    <item android:id="@+id/flower"
+        android:title="Flower"/>
+
+    <item android:id="@+id/animal"
+        android:title="Animal"/>
+
+    <item android:id="@+id/music"
+        android:title="Music"/>
+
+    <item android:id="@+id/cartoon"
+        android:title="Cartoon"/>
+
+    <item android:id="@+id/material"
+        android:title="Material"/>
+
+    <item android:id="@+id/baby"
+        android:title="Baby"/>
+
+    <item android:id="@+id/festival"
+        android:title="Festival"/>
+
+</menu>

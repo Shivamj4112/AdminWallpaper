@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897578901734",
+    "project_id": "wallpaper-8ce8c",
+    "storage_bucket": "wallpaper-8ce8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897578901734:android:4e12e8599d10b77cc9db27",
+        "android_client_info": {
+          "package_name": "com.example.adminwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897578901734-vaqeg12und0vscfgur59mval94efk280.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2fufTgBCIORgB4oud_y0UNpSher3LGYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897578901734-vaqeg12und0vscfgur59mval94efk280.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
